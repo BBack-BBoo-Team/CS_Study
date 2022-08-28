@@ -1,4 +1,4 @@
-## Spring과 SpringBoot의 차이점에 대해 설명해주세요
+# Spring과 SpringBoot의 차이점에 대해 설명해주세요
 
 스프링 부트와 스프링 프레임워크의 가장 큰 차이는 `Auto Configuration`의 차이
 
