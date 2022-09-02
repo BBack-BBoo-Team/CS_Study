@@ -43,7 +43,9 @@
 }`
 
 `public <K, V> void getPrint(K k, V v) {
+
     System.out.println(k +"," + v);
+    
 }`
 
 2. 이렇게 설계한 클래스를 사용하는 곳에서 파라미터(<>) 안에 타입을 지정합니다.
