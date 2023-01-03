@@ -5,6 +5,7 @@
 [1. 스프링이란](https://github.com/BBack-BBoo-Team/CS_Study/edit/master/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81/README.md#1-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4%EB%9E%80) <br>
 [2. ORM](https://github.com/BBack-BBoo-Team/CS_Study/edit/master/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81/README.md#2-orm)<br>
 [3. JPA](https://github.com/BBack-BBoo-Team/CS_Study/edit/master/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81/README.md#3-jpa)<br>
+[3. Spring과 Spring Boot 차이](https://github.com/BBack-BBoo-Team/CS_Study/edit/master/%EC%9D%B4%EB%A1%A0%EC%A0%95%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81/README.md#4-spring-%EA%B3%BC-spring-boot-%EC%B0%A8%EC%9D%B4)<br>
 
 ---
 
@@ -49,4 +50,14 @@
 * JPA를 구현한 대표적인 오픈소스는 Hibernate
 
 > Q. ORM, JPA, Hibernate 장.단점은 무엇인가요? <br> A. 비즈니스 로직에 집중하고, 객체중심의 개발을 할 수 있게 됩니다. <br> 그리고 메서드를 호출하는 것만으로 쿼리를 수행해서 생산성이 향상되고 유지보수 비용이 감소합니다. <br> 그리고 특정 데이터베이스에 의존하지 않습니다. <br> 하지만 단점으로는 직접 SQL을 호출하는것보다 느리고, 복잡한 쿼리같은 것은 메소드로 처리가 힘들다는 단점이 있습니다.
- 
+
+<br>
+
+## 4. Spring 과 Spring boot 차이
+* 스프링 부트는 Embedded Tomcat 을 사용하기 때문에 따로 설치하거나 버전을 관리할 필요가 없습니다.
+* starter 을 통해서 dependency 설정을 자동화합니다.
+  * Spring framework는 버전을 직접 명시하며 필요에 맞게 변경해야 합니다.
+  * Spring Boot는 직접 버전을 관리하며, `spring-boot-starter-web` 을 사용하여 종속된 모든 라이브러리를 알맞게 찾아서 사용합니다.
+  * 따라서 종속성이나 호환 버전에 대해 신경 쓸 필요가 없습니다.
+* 공통적으로 필요한 DispatcherServlet 같은 설정을 어노테이션을 이용하여 대신할 수 있도록 해줍니다. Spring boot의 main 메서드는 @SpringBootApplication 을 갖고 있습니다.
+* jar 파일을 이용해서 자바 옵션만으로 손쉽게 배포할 수 있습니다.
