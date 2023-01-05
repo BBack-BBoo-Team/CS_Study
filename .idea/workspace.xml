@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1524af7-203f-48b0-8265-dc1edfef387a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cs_study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/네트워크/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/데이터베이스/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/디자인패턴/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/스프링/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/운영체제/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/웹/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/자료구조/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/자바/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/프로그래밍" beforeDir="false" afterPath="$PROJECT_DIR$/이론정리/프로그래밍/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ig2WiavipC1amZcPfl24dG28Gv" />
   <component name="ProjectLevelVcsManager">
@@ -27,12 +33,13 @@
     <option name="showModules" value="false" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/기술면접/질문모음" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/kang/dev/BBackBBoo/CS_Study"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kang\dev\BBackBBoo\CS_Study\기술면접\질문모음" />
@@ -40,6 +47,9 @@
       <recent name="C:\Users\kang\dev\BBackBBoo\CS_Study\이론정리\자료구조" />
       <recent name="C:\Users\kang\dev\BBackBBoo\CS_Study\이론정리\웹" />
       <recent name="C:\Users\kang\dev\BBackBBoo\CS_Study\이론정리\운영체제" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kang\dev\BBackBBoo\CS_Study\이론정리\프로그래밍" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,6 +81,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
