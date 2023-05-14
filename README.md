@@ -1,21 +1,21 @@
-# CS Study
+# 개발자 전공 지식 & 기술 면접 기록
 
 ---
 
-`개발 기술 이론`
+### 참고
 
-<br>
+[면접 질문 모음](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts/blob/main/Job%20interview.md) <br>
+[주니어 개발자 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler) <br>
+[기술면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer)
 
 ## 🙋‍♂️ 작성자
-|[<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="230px;" alt=""/>](https://github.com/Si-Hyeak-KANG) |
-|:---:|
-|[✨강시혁](https://github.com/Si-Hyeak-KANG) |
+| [<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="150px;" alt=""/>](https://github.com/Si-Hyeak-KANG) |
+|:---------------------------------------------------------------------------------------------------------------------------:|
+|                                          [✨강시혁](https://github.com/Si-Hyeak-KANG)                                           |
 
-<br>
 
-## 🌱 디렉토리 및 파일 구조
+### Commit convention rule : 날짜-[주제]-내용-상태
+`ex) 2023-05-14 [Java] Stream API Add (or Update, Delete)`
 
-`문제분류/문제요약단어/별칭.md` 형식
-- 예시 : /java/jvm이란/JAMES.md
-- 꼭 파일을 생성할 땐 파일형식 md로 해주세요.
-- md 파일은 markdown 문법에 따라 글을 작성해야합니다.
+### 경로
+[주제] > 내용 제목.md
