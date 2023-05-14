@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1524af7-203f-48b0-8265-dc1edfef387a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/네트워크/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/데이터베이스/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/디자인패턴/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/스프링/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/운영체제/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/웹/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/자료구조/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/기술면접/질문모음/자바/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/이론정리/프로그래밍" beforeDir="false" afterPath="$PROJECT_DIR$/이론정리/프로그래밍/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/네트워크/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/네트워크/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/데이터베이스/RDB - NoSQL를 비교 설명해 주세요.md" beforeDir="false" afterPath="$PROJECT_DIR$/데이터베이스/RDB - NoSQL를 비교 설명해 주세요.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/데이터베이스/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/데이터베이스/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/디자인패턴/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/디자인패턴/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/스프링/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/스프링/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/운영체제/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/운영체제/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/웹/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/웹/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/자료구조/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/자료구조/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/자바/Java Stream API의 특징은 무엇이 있나요?.md" beforeDir="false" afterPath="$PROJECT_DIR$/자바/Java Stream API의 특징은 무엇이 있나요?.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/자바/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/이론정리/프로그래밍/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +44,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kang/dev/BBackBBoo/CS_Study"
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/kang/dev/BBackBBoo/CS_Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,6 +64,7 @@
       <recent name="C:\Users\kang\dev\BBackBBoo\CS_Study\이론정리\운영체제" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\kang\dev\BBackBBoo\CS_Study\이론정리\프로그래밍" />
     </key>
   </component>
@@ -65,6 +81,7 @@
       <workItem from="1670892333363" duration="2697000" />
       <workItem from="1672039617701" duration="96000" />
       <workItem from="1672039894746" duration="976000" />
+      <workItem from="1684048721579" duration="702000" />
     </task>
     <servers />
   </component>
