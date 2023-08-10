@@ -1,7 +1,7 @@
 # COMPUTER SCIENCE STUDY
 
 ### 모임일정
-<img src="https://img.shields.io/badge/매주_목요일_21시-FF9900?style=for-the-badge&logo=date&logoColor=white">
+<img src="https://img.shields.io/badge/매주_화요일_21시-FF9900?style=for-the-badge&logo=date&logoColor=white">
 
 ### 금주 주제 리스트
 |번호| 태그 | 질문 | 링크 |
