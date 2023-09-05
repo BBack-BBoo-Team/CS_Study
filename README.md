@@ -6,8 +6,8 @@
 ### 금주 주제 리스트
 |번호| 태그 | 질문 | 링크 |
 |:---:|:---:|:---:|:---:|
-|1| 데이터베이스 |RDB와 NoSQL의 차이를 설명해주세요.| [바로가기](https://github.com/BBack-BBoo-Team/CS_Study/tree/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/RDB%EC%99%80_NoSQL%EC%9D%98_%EC%B0%A8%EC%9D%B4%EB%A5%BC_%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.) |
-|2| 데이터베이스 |트랜잭션에 대해서 설명해주세요.| [바로가기](https://github.com/BBack-BBoo-Team/CS_Study/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%97%90_%EB%8C%80%ED%95%B4%EC%84%9C_%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94./%EC%8B%9C%ED%98%81.md)|
+|1| 자료구조 |배열과 리스트의 개념과 둘의 차이를 설명해주세요,| [바로가기](https://github.com/BBack-BBoo-Team/CS_Study/tree/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EB%B0%B0%EC%97%B4%EA%B3%BC_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9D%98_%EA%B0%9C%EB%85%90%EA%B3%BC_%EB%91%98%EC%9D%98_%EC%B0%A8%EC%9D%B4%EB%A5%BC_%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.) |
+|2| 디자인패턴 |MVC, MVP, MVVM 패턴에 대해서 설명해주세요.| [바로가기](https://github.com/BBack-BBoo-Team/CS_Study/tree/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/mvc%2Cmvp%2Cmvvm_%ED%8C%A8%ED%84%B4%EC%97%90_%EB%8C%80%ED%95%B4%EC%84%9C_%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.)|
 
 ### 진행방식
 - 매주 2개의 주제를 제시합니다.
