@@ -7,7 +7,7 @@
 |번호| 태그 | 질문 | 링크 |
 |:---:|:---:|:---:|:---:|
 |1| 웹 |동기와 비동기의 차이에 대하여 설명해주세요.(+블록,논블록)| [바로가기](https://github.com/BBack-BBoo-Team/CS_Study/tree/63714120d3814f430bad6f2cbb30cbb870964830/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.) |
-|2| 웹 |RESTFulAPI에 대해서 설명해주세요.| [바로가기](https://github.com/BBack-BBoo-Team/CS_Study/tree/b3167e46ee5fd3282ed201b291b37a0fbd966746/%EC%9B%B9/RESTFul%20API%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.)|
+|2| 웹 |RESTFulAPI에 대해서 설명해주세요.| [바로가기](https://github.com/BBack-BBoo-Team/CS_Study/tree/master/%EC%9B%B9/RESTFul%20API%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.)|
 
 
 
